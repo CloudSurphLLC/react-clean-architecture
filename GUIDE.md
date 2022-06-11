@@ -78,3 +78,6 @@ Within the widgets folder, I would group by type - forms, tables, buttons, layou
 
 What is different between components and widgets directories?
 Components can't be used if we copy them and use in new project which they are depend on packages and styles, But widgets can be used in different project.
+
+## Utils
+At utils directory we out any logic or service we write for our project, for example a wrapper for axios could be here.
